@@ -17,6 +17,7 @@
 - [:straight_ruler: Estructura del Código](#bar_chart-estructura-del-código)
 - [:books: Galería de Imágenes](#framed_picture-galería-de-imágenes)
 - [:warning: Notificaciones y Alertas](#warning-notificaciones-y-alertas)
+- [:art: Wireframe](#art-wireframe)
 - [:busts_in_silhouette: Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
 
 ---
@@ -254,6 +255,20 @@ public class main {
 :warning: ADVERTENCIA: La cuota del propietario José Pérez se encuentra devuelta.
 
 :x: ERROR: No ha sido posible generar el informe financiero por falta de conexión con la base de datos.
+
+---
+
+## :art: Wireframe
+
+A continuación se muestra un esquema visual preliminar (wireframe) del módulo de **Gestión Económica**, diseñado para representar la estructura básica de las pantallas principales del sistema:
+
+![Wireframe del módulo de gestión económica](img/miro.jpg)
+
+> :bulb: *Este wireframe ayuda a visualizar la interfaz de usuario antes del desarrollo completo.*
+
+---
+
+
 
 ## :busts_in_silhouette: Integrantes del Grupo
 
