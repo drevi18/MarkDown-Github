@@ -1,4 +1,5 @@
-# :money_with_wings: Gestión Económica - Subsistema de Administración Financiera de Fincas
+# !(img/logo.png)
+ Gestión Económica - Subsistema de Administración Financiera de Fincas
 
 > _Sistema para la automatización y control financiero de comunidades gestionadas por la empresa._
 
