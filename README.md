@@ -34,9 +34,9 @@ Este módulo permite:
 
 ---
 
-## :package: Funcionalidades del Subsistema
+## :open_file_folder: Funcionalidades del Subsistema
 
-### :receipt: Gestión de recibos y cuotas
+### :bar_chart: Gestión de recibos y cuotas
 
 - Registro y control de recibos periódicos (agua, luz, gas, etc.).
 - Gestión de cuotas ordinarias y extraordinarias a propietarios.
@@ -48,7 +48,7 @@ Este módulo permite:
 
 ---
 
-### :repeat: Control de devoluciones
+### :incoming_envelope: Control de devoluciones
 
 - Registro de recibos devueltos (motivo, fecha, servicio).
 - Registro de cuotas devueltas (motivo, fecha, propietario).
