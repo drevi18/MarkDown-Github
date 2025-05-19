@@ -1,4 +1,4 @@
-# ![Vista del módulo de cuotas](img/logo.png)
+# ![Vista del módulo de cuotas](img/Logo.png)
 
  Gestión Económica - Subsistema de Administración Financiera de Fincas
 
