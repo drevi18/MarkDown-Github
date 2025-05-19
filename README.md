@@ -274,4 +274,4 @@ Los integrantes del proyecto han sido:
 
 :link: [Volver al índice](#bookmark_tabs-índice)
 
-[Repositorio del proyecto principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores "Repositorio del proyecto principal")
+[Repositorio del proyecto principal](https://github.com/drevi18/proyecto-intermodular)
