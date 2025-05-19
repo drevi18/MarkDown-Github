@@ -6,14 +6,14 @@
 
 ## :bookmark_tabs: Índice
 
-- [:wrench: Introducción](#wrench-introducción)
-- [:package: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
-  - [:receipt: Gestión de recibos y cuotas](#receipt-gestión-de-recibos-y-cuotas)
-  - [:repeat: Control de devoluciones](#repeat-control-de-devoluciones)
+- [:pencil2: Introducción](#wrench-introducción)
+- [:open_file_folder: Funcionalidades del Subsistema](#package-funcionalidades-del-subsistema)
+  - [:bar_chart: Gestión de recibos y cuotas](#receipt-gestión-de-recibos-y-cuotas)
+  - [:incoming_envelope: Control de devoluciones](#repeat-control-de-devoluciones)
   - [:moneybag: Gestión de presupuestos comunitarios](#moneybag-gestión-de-presupuestos-comunitarios)
   - [:bar_chart: Informes y análisis financiero](#bar_chart-informes-y-análisis-financiero)
-- [:bar_chart: Estructura del Código](#bar_chart-estructura-del-código)
-- [:framed_picture: Galería de Imágenes](#framed_picture-galería-de-imágenes)
+- [:straight_ruler: Estructura del Código](#bar_chart-estructura-del-código)
+- [:books: Galería de Imágenes](#framed_picture-galería-de-imágenes)
 - [:warning: Notificaciones y Alertas](#warning-notificaciones-y-alertas)
 - [:busts_in_silhouette: Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
 
