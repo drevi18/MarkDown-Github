@@ -1,4 +1,5 @@
-# !(img/logo.png)
+# ![Vista del módulo de cuotas](img/logo.png)
+
  Gestión Económica - Subsistema de Administración Financiera de Fincas
 
 > _Sistema para la automatización y control financiero de comunidades gestionadas por la empresa._
