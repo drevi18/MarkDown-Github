@@ -19,7 +19,7 @@
 
 ---
 
-## :wrench: Introducción
+## :pencil2: Introducción
 
 El **Subsistema de Gestión Económica** tiene como objetivo centralizar y automatizar la administración de los aspectos financieros relacionados con las fincas y comunidades gestionadas por la empresa.
 
